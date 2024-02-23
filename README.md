@@ -7,7 +7,7 @@ In recent years, City Hotels and Resort Hotel have been confronted with high can
 It is important to note that the reduction of cancellation rates will not only increase revenue generation efficiency but will also improve the overall reputation of the hotels. Therefore, it is crucial that the hotels take a proactive approach to address this issue and implement the recommended solutions to enhance their financial performance and customer satisfaction.
 
 
-## ASSUMPTIONS
+## ASSUMPTIONS:
 
 1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
 
@@ -91,3 +91,6 @@ The graph clearly indicates that there is a correlation between the average dail
 4. Enhance hotel quality and services in Portugal to mitigate cancellations.
 
 ## THANK YOU
+## CONTRIBUTORS:
+
+Rashmi Singh
